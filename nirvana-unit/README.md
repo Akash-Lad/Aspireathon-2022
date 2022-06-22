@@ -1,18 +1,16 @@
 # Getting Started with Create React App
 
-### Deployed GitHub Pages: https://akash-lad.github.io/dyte-react/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `git clone https://github.com/Akash-Lad/dyte-react.git`
+### `git clone https://github.com/Akash-Lad/Aspireathon-2022.git`
 
 Clone the repository in local machine
 
-### `cd dyte-frontend`
+### `cd [repository-name]`
 
 Change the directory to dyte-frontend
 
